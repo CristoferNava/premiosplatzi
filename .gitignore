@@ -1,0 +1,4 @@
+*.vb/
+*.pyc
+*__pycache__/
+*.sqlite3
